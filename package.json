@@ -4,7 +4,7 @@
   "description": "whatsapp backend",
   "license": "ISC",
   "author": "m.mehdi hassan",
-  "type": "module",
+  "type": "commonjs",
   "main": "server.js",
   "scripts": {
     "test": "dev"
