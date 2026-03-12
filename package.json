@@ -1,0 +1,15 @@
+{
+  "name": "whatsappb",
+  "version": "1.0.0",
+  "description": "whatsapp backend",
+  "license": "ISC",
+  "author": "m.mehdi hassan",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
